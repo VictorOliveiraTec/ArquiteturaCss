@@ -1,6 +1,9 @@
 .receitas{
     background-color: #F1F1F1;
-    display: flex;
-    flex-wrap: wrap;
-    padding: 5rem 0 0 5rem;
+    padding: 5rem 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 250px);
+    gap: 20px;
+    width: 100vw;
+    justify-content: center;
 }

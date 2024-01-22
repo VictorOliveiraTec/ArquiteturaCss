@@ -6,3 +6,9 @@
     width: 50vw;
     word-wrap: break-word; 
 }
+
+@media screen and (min-width: 0){
+    .text__descricao{
+        width: 80vw;
+    }
+}

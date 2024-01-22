@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 0){
     .menu{
-        padding: 0 1rem;
+        padding: 0 0rem;
         justify-content: center;
     }
 }

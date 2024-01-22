@@ -4,3 +4,8 @@
     text-align: right;
     text-transform: lowercase;
 }
+
+.rodape p a{
+    color: #000;
+    text-decoration: none;
+}

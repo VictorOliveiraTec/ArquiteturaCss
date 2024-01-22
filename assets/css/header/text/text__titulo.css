@@ -3,3 +3,15 @@
     font-family: 'Pacifico', cursive;
     font-size: 3.1875rem;
 }
+
+@media screen and (min-width: 0){
+    .text__titulo{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 728px){
+    .text__titulo{
+        font-size: 5.0625rem;
+    }
+}
