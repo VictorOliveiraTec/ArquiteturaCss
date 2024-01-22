@@ -1,0 +1,8 @@
+.text{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    width: 100%;
+}

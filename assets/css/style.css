@@ -1,0 +1,42 @@
+@import url("header/menu/menu.css");
+@import url("header/menu/logo.css");
+@import url("header/menu/menu__item.css");
+@import url("header/menu/menu__link.css");
+
+@import url("header/banner/banner.css");
+@import url("header/banner/banner__image.css");
+@import url("header/banner/banner__titulo.css");
+
+@import url("header/text/text.css");
+@import url("header/text/text__titulo.css");
+@import url("header/text/text__descricao.css");
+
+@import url("main/receitas/receitas.css");
+@import url("main/receitas/receita.css");
+@import url("main/receitas/receita__imagem.css");
+@import url("main/receitas/receita__conteudo.css");
+@import url("main/receitas/receita__titulo.css");
+@import url("main/receitas/receita__descricao.css");
+@import url("main/receitas/receita__botao.css");
+
+@import url("aside/quemsomos/quemsomos.css");
+@import url("aside/quemsomos/quemsomos__titulo.css");
+@import url("aside/quemsomos/quemsomos__descricao.css");
+@import url("aside/quemsomos/pessoa/pessoas.css");
+@import url("aside/quemsomos/pessoa/pessoa.css");
+@import url("aside/quemsomos/pessoa/pessoa__imagem.css");
+@import url("aside/quemsomos/pessoa/pessoa__nome.css");
+@import url("aside/quemsomos/pessoa/pessoa__funcao.css");
+
+@import url("footer/rodape.css");
+
+
+/* *{
+    transition: all 1s ease-in-out;
+} */
+
+:root{
+    --Color-White: #F9F9F9;
+    --Color-Text-Cinza: #808080;
+}
+

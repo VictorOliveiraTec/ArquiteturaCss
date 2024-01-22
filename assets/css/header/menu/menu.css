@@ -1,0 +1,24 @@
+.menu{
+    align-items: center;
+    background: var(--Color-White);
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__lista{
+    display: flex;
+}
+
+@media screen and (min-width: 0){
+    .menu{
+        padding: 0 1rem;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 728px){
+    .menu{
+        padding: 0 2rem;
+        justify-content: space-between;
+    }
+}
